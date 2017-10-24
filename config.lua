@@ -10,7 +10,7 @@ Config.Locale                     = 'fr'
 
 Config.Zones = {
   MecanoActions = {
-    Pos   = { x = -347.291, y = -133.370, z = 38.009 },
+    Pos   = { x = 474.304, y = -1309.361, z = 28.206 },
     Size  = { x = 1.5, y = 1.5, z = 1.0 },
     Color = { r = 204, g = 204, b = 0 },
     Type  = 1,
@@ -24,20 +24,20 @@ Config.Zones = {
   },
 
   Craft = {
-    Pos   = { x = -323.140, y = -129.882, z = 37.999 },
+    Pos   = { x = 472.802, y = -1311.617, z = 28.216 },
     Size  = { x = 1.5, y = 1.5, z = 1.0 },
     Color = { r = 204, g = 204, b = 0 },
     Type  = 1,
   },
 
   VehicleSpawnPoint = {
-    Pos   = { x = -366.354, y = -110.766, z = 37.696 },
+    Pos   = { x = 490.982, y = -1334.815, z = 28.828 },
     Size  = { x = 1.5, y = 1.5, z = 1.0 },
     Type  = -1,
   },
 
   VehicleDeleter = {
-    Pos   = { x = -386.899, y = -105.675, z = 37.683 },
+    Pos   = { x = 486.215, y = -1307.962, z = 27.769 },
     Size  = { x = 3.0, y = 3.0, z = 1.0 },
     Color = { r = 204, g = 204, b = 0 },
     Type  = 1,
